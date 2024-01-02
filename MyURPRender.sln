@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{685D1E48-5527-80A1-EB87-5CB3D671DE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{3F8B8232-95FD-636A-ECC3-09F5402D808F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmplifyShaderEditor", "AmplifyShaderEditor.csproj", "{5D7980E1-1469-C626-67E8-0B0B9AAAA760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685D1E48-5527-80A1-EB87-5CB3D671DE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685D1E48-5527-80A1-EB87-5CB3D671DE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685D1E48-5527-80A1-EB87-5CB3D671DE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685D1E48-5527-80A1-EB87-5CB3D671DE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8B8232-95FD-636A-ECC3-09F5402D808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8B8232-95FD-636A-ECC3-09F5402D808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8B8232-95FD-636A-ECC3-09F5402D808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8B8232-95FD-636A-ECC3-09F5402D808F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7980E1-1469-C626-67E8-0B0B9AAAA760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7980E1-1469-C626-67E8-0B0B9AAAA760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7980E1-1469-C626-67E8-0B0B9AAAA760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7980E1-1469-C626-67E8-0B0B9AAAA760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

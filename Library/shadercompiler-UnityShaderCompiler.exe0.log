@@ -1,0 +1,8 @@
+Base path: 'D:/Unity3D/2019.4.32f1c1/Editor/Data', plugins path 'D:/Unity3D/2019.4.32f1c1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocess
+  error: 1 plat 24 at (51): Unrecognized #pragma directive: multi_cmpile
+  insize=9206 outsize=1655 ok=1
+Cmd: shutdown
+
+Quitting shader compiler process
